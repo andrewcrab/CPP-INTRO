@@ -14,3 +14,6 @@ lst.sort(); //因为不支持算法中的sort，链表自带了sort函数
 lst.remove(2);  //删除素有和2相等的元素
 lst.reverse(); //前后颠倒
 ```
+
+例子：约瑟夫问题
+https://github.com/andrewcrab/CPP-INTRO/blob/master/约瑟夫问题.md
