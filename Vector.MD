@@ -26,6 +26,10 @@ vector<int> v(100);
 for (auto i = v.begin(); i != v.end(); ++i){
   cout << * i;
 }
+
+for (auto i : v){
+  cout << * i;
+}
 ```
 
 ### 读写操作
